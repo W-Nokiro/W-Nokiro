@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @W-Nokiro,
+- 👋 Hi, I’m Can a.k.a @W-Nokiro,
 - 👀 I’m interested in software engineering,
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on literally anything that improves me,
